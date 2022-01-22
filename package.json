@@ -1,0 +1,23 @@
+{
+  "name": "construindo-encurtador-de-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/camposweb/construindo-encurtador-de-url.git",
+  "author": "Leandro <camposweb@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "",
+    "dev": ""
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
